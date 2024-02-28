@@ -38,5 +38,5 @@ $!$
                 app.run()
 ![](https://github.com/rakhazl/How-to-Run-Flask-in-Google-Collab/blob/main/Document/Step%204.png)
 
-### 6. Click Link, from result step no.4 for running
+### 6. Click Link, from result step no.4 for running :rocket:
         https://udqt0euhwhn-496ff2e9c6d22116-5000-colab.googleusercontent.com/
